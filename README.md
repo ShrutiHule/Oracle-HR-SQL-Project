@@ -149,7 +149,7 @@ Run each query individually or execute the entire script to view the results.
 
 **Shruti Hule**
 
-Computer Engineering Student
+Aspiring Data Analyst
 
 ### Skills
 
